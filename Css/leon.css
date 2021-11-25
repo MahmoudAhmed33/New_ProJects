@@ -55,7 +55,7 @@ body {
 
 @media (min-width: 1200px) {
     .container {
-        width: 1110px;
+        width: 1100px;
     }
 }
 /* End Global Rules */
@@ -435,7 +435,7 @@ line-height: var(--line-height);
     height: 78px;
     background-color: var(--main-color);
     position: absolute;
-    bottom: 21px;
+    bottom: 20px;
     right: -107px;
 }
 .about .about-content  .top-left::before {
@@ -444,7 +444,7 @@ line-height: var(--line-height);
     height: 33px;
     background-color: #e8e8e8;
     position: absolute;
-    top: -393px;
+    top: -394px;
     right: 199px;
 }
 .about .about-content  .bottom-left::before {
