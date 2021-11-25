@@ -273,7 +273,7 @@ line-height: var(--line-height);
     top: -50px;
     right: -20px;
     height: calc(100% + 100px);
-    width: 50px;
+    width: 47px;
     z-index: -1;
 }
 .services .services-content  .top-right,.bottom-right {
