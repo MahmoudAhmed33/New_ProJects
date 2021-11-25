@@ -108,7 +108,7 @@ body {
     width: 100%;
 }
 .header .links .icon span:nth-child(2) {
-    height: 2.14px;
+    height: 2px;
     width: 60%;
     transition: .3s;
     -webkit-transition: .3s;
